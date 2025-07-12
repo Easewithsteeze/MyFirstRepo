@@ -1,2 +1,1 @@
-I’ve learned how to use Git and GitHub to manage my code and track changes.
-Reflection: I have learned how to use Git to manage code versions and work with GitHub to store and collaborate on projects online.
+What I have learned from this course is how to use Git to manage code changes, create repositories, commit updates, and collaborate with others using GitHub.
